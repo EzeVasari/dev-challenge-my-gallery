@@ -4,6 +4,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
 }
 
 body {
@@ -12,16 +13,22 @@ body {
     align-items: center;
 }
 
-.image-profile {
-    display: flex;
-    flex-flow: column wrap;
-    align-items: center;
+.profile-image, .name, .location {
+   text-align: center;
 }
 
-.img {
-    width: 100px;
+.profile-image img {
+    width: 120px;
     border-radius: 15px;
     margin-top: 5%;
-    align-items: center;
+}
+
+.name {
+    font-size: 1.3em;
+}
+
+.location {
+    font-size: 0.7em;
+    color: gray;
 }
 
