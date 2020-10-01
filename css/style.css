@@ -105,7 +105,8 @@ body {
 footer {
     width: 100%;
     text-align: center;
-    margin: 10px 0 10px 0;
+    margin: 40px 0 10px 0;
+    color: gray;
 }
 
 @media (max-width: 599px) {
