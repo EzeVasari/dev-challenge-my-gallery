@@ -32,3 +32,26 @@ body {
     color: gray;
 }
 
+.numbers {
+    display: flex;
+    justify-content: center;
+}
+
+.numbers div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.numbers div {
+    padding: 8px;
+    width: 90px;
+    background-color: #c3c3c372;
+    border-radius: 15px;
+}
+
+.posts, .followers {
+    margin-right: 10px;
+}
+
