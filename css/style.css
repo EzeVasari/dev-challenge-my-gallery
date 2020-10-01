@@ -102,6 +102,12 @@ body {
     grid-row: 3/3;
 }
 
+footer {
+    width: 100%;
+    text-align: center;
+    margin: 10px 0 10px 0;
+}
+
 @media (max-width: 599px) {
     
     .profile-image img {
