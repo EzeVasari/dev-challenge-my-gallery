@@ -49,7 +49,7 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@your-username](https://github.com/EzeVasari)
-- Linkedin [@your-twitter](https://www.linkedin.com/in/ernesto-vasari-13b366185/)
+- GitHub [@EzeVasari](https://github.com/EzeVasari)
+- [Linkedin](https://www.linkedin.com/in/ernesto-vasari-13b366185/)
 
  
